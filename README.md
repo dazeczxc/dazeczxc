@@ -1,4 +1,8 @@
-### Hi! 👋 Everyone calss me DASECO.
+### Hi! 👋 Everyone calls me DASECO.
+
+#My full name Joshua Daseco
+
+
 
 <!--
 **dazeczxc/dazeczxc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
