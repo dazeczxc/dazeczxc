@@ -1,6 +1,6 @@
-### Hi! 👋 Everyone calls me DASECO.
+# Hi! 👋you can me DASECO.
 
-# My full name is Joshua Daseco
+## My full name is Joshua Daseco
 
 
 
