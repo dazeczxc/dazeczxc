@@ -18,8 +18,7 @@
 
  ### Tools I work upon : 🛠
 
-<img src="https://ik.imagekit.io/pvtoc2drf/js.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671097607895" width="auto" height="30px">   
- <img src="https://ik.imagekit.io/pvtoc2drf/vscode.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671097609489" width="auto" height="30px">   
+<img src="https://ik.imagekit.io/pvtoc2drf/js.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671097607895" width="auto" height="30px"><img src="https://ik.imagekit.io/pvtoc2drf/html.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671097611110" width="auto" height="30px"><img src="https://ik.imagekit.io/pvtoc2drf/css.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671097610101" width="auto" height="30px"><img src="https://ik.imagekit.io/pvtoc2drf/php.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671097611679" width="auto" height="30px"><img src="https://ik.imagekit.io/pvtoc2drf/mysql.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671097611160" width="auto" height="30px"><img src="https://ik.imagekit.io/pvtoc2drf/java.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671097609431" width="auto" height="30px"><img src="https://ik.imagekit.io/pvtoc2drf/git.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671097609637" width="auto" height="30px"><img src="https://ik.imagekit.io/pvtoc2drf/vscode.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671097609489" width="auto" height="30px"><img src="https://ik.imagekit.io/pvtoc2drf/photoshop.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671097611271" width="auto" height="30px">   
  
 
   
