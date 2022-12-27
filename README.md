@@ -8,11 +8,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Joshua+Daseco%2C+23+years+old;A+Web+Developer;Designer)](https://git.io/typing-svg)
 
-### How to reach me: 
+### Connect with me: 
 <a href="mailto: dasecojoshua@gmail.com">
-<img src="https://img.shields.io/badge/-dasecojoshua%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=#0EA5EA" ></a>  
-<a  href="https://www.instagram.com/_dazec">   <img src="https://img.shields.io/badge/@dazec-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=#0EA5EA"></a>  
-<a href="https://www.linkedin.com/in/joshua-daseco-8255a9245/"><img src="https://img.shields.io/badge/joshuadaseco-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=#0EA5EA" ></a> 
+<img src="https://img.shields.io/badge/-dasecojoshua%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  
+<a  href="https://www.instagram.com/_dazec">   <img src="https://img.shields.io/badge/@dazec-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  
+<a href="https://www.linkedin.com/in/joshua-daseco-8255a9245/"><img src="https://img.shields.io/badge/joshuadaseco-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
  
 
  ### Tools I work upon : 🛠
