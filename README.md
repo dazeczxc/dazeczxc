@@ -18,8 +18,8 @@
 
  ### Tools I work upon : 🛠
 
-<img src="https://ik.imagekit.io/pvtoc2drf/vscode.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671097609489" width="auto" height="50px">   
- <img src="https://ik.imagekit.io/pvtoc2drf/vscode.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671097609489" width="auto" height="50px">   
-<img src="https://ik.imagekit.io/pvtoc2drf/vscode.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671097609489" width="auto" height="50px">   
+<img src="https://ik.imagekit.io/pvtoc2drf/js.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671097607895" width="auto" height="20px">   
+ <img src="https://ik.imagekit.io/pvtoc2drf/vscode.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671097609489" width="auto" height="20px">   
+ 
 
   
