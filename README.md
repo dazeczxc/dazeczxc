@@ -21,7 +21,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=dazeczxc&show_icons=true&locale=en&hide_border=false&title_color=1E6B9E&icon_color=1E6B9E&bg_color=F8F9F9&text_color=17202A&border_color=0c1a25" />
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
- 
+  
 
   
