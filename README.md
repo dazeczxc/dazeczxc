@@ -1,12 +1,12 @@
 # Hi there, I'm Daseco 👋
 
-- 🌱 I’m currently learning **Laravel**
-- 🔍 I’m interested to learn **Vue.js**
-- 📄 Know about my experiences [View Resume](https://resume.showwcase.com/ravenbarrogo.pdf)
+- 🌱 I’m currently learning **Laravel and Vue.js**
+- 🔍 I’m interested to learn **React.js**
+- 📄 Know about my experiences [View Resume](https://resume.showwcase.com/.pdf)
 - 👀 See my [Personal Portfolio](https://joshuadaseco.tech/) to get more info
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Joshua+Daseco%2C+23+years+old;A+Web+Developer;Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Joshua+Daseco%2C+23+years+old;A+Web+Developer;A Designer)](https://git.io/typing-svg)
 
 ### Connect with me: 
 <a href="mailto: dasecojoshua@gmail.com">
