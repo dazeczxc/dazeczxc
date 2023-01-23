@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Laravel and Vue.js**
 - 🔍 I’m interested to learn **React.js**
-- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/17v_d9fdhXrVVn25iU4dxMUTExS4xuDav/view?usp=sharing)
+- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1Xen4tV3c7R3wDWPDs2ntN14Pzma4LlWW/view?usp=share_link)
 - 👀 See my [Personal Portfolio](https://joshuadaseco.tech/) to get more info
 
 
