@@ -2,8 +2,8 @@
 
 - 🌱 I’m currently learning **Laravel and Vue.js**
 - 🔍 I’m interested to learn **React.js**
-- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1Xen4tV3c7R3wDWPDs2ntN14Pzma4LlWW/view?usp=share_link)
-- 👀 See my [Personal Portfolio](https://joshuadaseco.tech/) to get more info
+- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/18oBijRgA6D413SJSh3y8YDAr9vqamaqb/view?usp=drive_link)
+- 👀 See my [Personal Portfolio](https://dazeczxc.github.io/portfolio/) to get more info
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Joshua+Daseco%2C+23+years+old;A+Web+Developer;A+Designer)](https://git.io/typing-svg)
